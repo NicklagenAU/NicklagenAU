@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nick Lagen
 
-<!--
-**NicklagenAU/NicklagenAU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Auburn University interested in software development, data systems, machine learning, and cybersecurity tooling.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Security Requirements Diff Tool
+Python tool that compares security requirement documents and runs analysis workflows based on detected changes.
+
+### Alabama Housing Price Prediction
+Machine learning project using Zillow housing data to predict residential home values with Linear Regression, Random Forest, and Gradient Boosting models.
+
+### Teamuppe UI
+React + TypeScript frontend project built with Vite.
+
+## Technical Skills
+
+**Languages:** Python, C++, TypeScript, JavaScript, SQL  
+**Tools:** Git, GitHub, Docker, Google Colab, Jupyter Notebook  
+**Areas:** Machine Learning, Databases, Cybersecurity, Web Development
+
+## Contact
+
+Email: nwl0006@auburn.edu  
+LinkedIn: add your LinkedIn link here
