@@ -4,6 +4,11 @@ I'm a Software Engineering student at Auburn University interested in software d
 
 ## Featured Projects
 
+### Barbell Club Prototype
+A React + TypeScript prototype for a Barbell Club member/admin system.
+
+This project was built as an interactive prototype/wireframe for testing user flows, collecting feedback, and demonstrating iterative software design.
+
 ### Security Requirements Diff Tool
 Python tool that compares security requirement documents and runs analysis workflows based on detected changes.
 
