@@ -4,6 +4,11 @@ I'm a Software Engineering student at Auburn University interested in software d
 
 ## Featured Projects
 
+### Nicholas & Annie Wedding Website
+A custom wedding website built with HTML, CSS, JavaScript, AWS EC2, S3, and Route 53.
+
+This project includes a personalized landing page, interactive sections for wedding details, venue information, dress code, and registry links. The site is hosted on an EC2 instance, uses S3 for image storage, and is connected to a custom domain through Route 53.
+
 ### Barbell Club Prototype
 A React + TypeScript prototype for a Barbell Club member/admin system.
 
